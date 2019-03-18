@@ -1,4 +1,4 @@
-{
+
     "url": "https://www.blackchen.site/",
     "server": {
       "port": 2368,
@@ -10,7 +10,7 @@
           "host": "mysql",
           "port": 3306,
           "user": "ghost",
-          "password": "yourPassword",
+          "password": "yourMysqlPassword",
           "database": "ghost"
         }
     },
