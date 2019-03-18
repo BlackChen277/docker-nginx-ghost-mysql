@@ -1,0 +1,30 @@
+{
+    "url": "https://www.blackchen.site/",
+    "server": {
+      "port": 2368,
+      "host": "0.0.0.0"
+    },
+    "database": {
+        "client": "mysql",
+        "connection": {
+          "host": "mysql",
+          "port": 3306,
+          "user": "ghost",
+          "password": "yourPassword",
+          "database": "ghost"
+        }
+    },
+    "mail": {
+      "transport": "Direct"
+    },
+    "logging": {
+      "transports": [
+        "file",
+        "stdout"
+      ]
+    },
+    "process": "systemd",
+    "paths": {
+      "contentPath": "/var/lib/ghost/content"
+    }
+  }
