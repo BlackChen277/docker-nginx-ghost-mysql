@@ -1,3 +1,3 @@
 Docker 搭建ghost博客
 
-相关文章请查看 [使用Docker 搭建Ghost博客(Docker+Nginx+Ghost+Mysql)](https://www.blackchen.site/docker-ghost/)
+相关文章请查看 [使用Docker 搭建Ghost博客(Docker+Nginx+Ghost+Mysql)](https://www.blackchen.site/2019/03/17/docker-ghost/)
